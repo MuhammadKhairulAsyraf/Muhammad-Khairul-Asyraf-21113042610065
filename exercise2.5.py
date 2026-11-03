@@ -1,0 +1,1 @@
+print('Albert Einstein pernah berkata, "Hidup itu seperti mengendarai sepeda. Untuk menjaga keseimbangan, kamu harus terus bergerak."')
